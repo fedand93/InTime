@@ -1,0 +1,39 @@
+.footer {
+	border-bottom: 1px solid #e0e9f0;
+}
+.social {
+	width: 163px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 112px;
+	position: absolute;
+}
+.drible {
+	width: 32px;
+	height: 32px;
+}
+.insta {
+	width: 20px;
+	height: 20px;
+}
+.facebook {
+	width: 11px;
+	height: 20px;
+}
+.linkedin {
+	width: 18px;
+	height: 17px;
+}
+.foot-right {
+	position: relative;
+	float: right;
+	padding-top: 38px;
+}
+.foot-desc {
+	color: #282b2f;
+	font-family: Rubik;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 38px;
+}

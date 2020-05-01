@@ -1,0 +1,30 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+.table-title {
+  color: #282b2f;
+  font-family: Rubik;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 38px;
+}
+.table-title-h4 {
+  border-top: 1px solid #e0e9f0;
+}
+.table-desc {
+  color: #282b2f;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 38px;
+}
+
+.table tr:nth-child(even) {
+  background: #f8f8f8;
+}
+  
+.table:nth-child {
+  background-color: #f8f8f8;
+}
+}
